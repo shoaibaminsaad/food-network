@@ -6,7 +6,6 @@ body{
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
-
 }
 
 /*------Header ------*/
@@ -77,7 +76,6 @@ a{
 
 .top-half img{
     width: 100%;
-    image-resolution: 500px;
 }
 
 .link-button{
@@ -115,9 +113,9 @@ p{
 
 .about-half{
     width: 40%;
-    padding-top: 5%;
-    padding-bottom: 0%;
-    background: scroll;
+    padding-top: 4%;
+    padding-bottom: -0%;
+    margin-bottom: -.25%;
 }
 
 .about-half img{
